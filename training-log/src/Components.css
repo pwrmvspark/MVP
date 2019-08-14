@@ -1,0 +1,19 @@
+/* App */
+
+/* Navbar */
+
+.nav-container {
+  display: flex;
+}
+
+.navbar-brand {
+  font-family: monospace;
+}
+
+.navbar-item {
+  font-size: 15px;
+}
+
+/* CreateExercise */
+
+/* TrainingSchedule */
